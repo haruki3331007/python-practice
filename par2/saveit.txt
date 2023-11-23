@@ -1,0 +1,3 @@
+darwin
+1024
+hamu
